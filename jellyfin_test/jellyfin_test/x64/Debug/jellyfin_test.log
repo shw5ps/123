@@ -1,0 +1,9 @@
+﻿  jellyfin_test.cpp
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(21,13): warning C4566: символ, представленный универсальным именем символа "\U0001F680", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(28,13): warning C4566: символ, представленный универсальным именем символа "\U0001F680", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(35,13): warning C4566: символ, представленный универсальным именем символа "\U0001F4C2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(52,13): warning C4566: символ, представленный универсальным именем символа "\U0001F3B5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(69,13): warning C4566: символ, представленный универсальным именем символа "\U0001F501", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(83,13): warning C4566: символ, представленный универсальным именем символа "\U0001F680", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Администратор\source\repos\jellyfin_test\jellyfin_test.cpp(100,13): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+  jellyfin_test.vcxproj -> C:\Users\Администратор\source\repos\jellyfin_test\x64\Debug\jellyfin_test.exe
